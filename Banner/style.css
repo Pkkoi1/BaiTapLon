@@ -1,0 +1,82 @@
+.logo
+{
+    /* height: 57px;
+    width: 65px;  */
+    margin-left: 39px;
+    border-radius: 70%;
+
+}
+.menu
+{
+    background-color: #3a4248;
+    display: flex;
+    flex-direction: row;
+    height: 64px;
+    position: sticky;
+    align-items: center;
+}
+.menuSupport{
+    color: #e03514;
+    margin-left: 58px;
+    display: flex;
+    flex-direction: row;
+   
+}
+.menuSupport a{
+    color: #e03514;
+    text-decoration: none;
+}
+.search
+{
+    position: relative;
+    margin-left: 85px;
+    width: 50%;
+}
+.SearchField
+{
+    width: 100%;
+    height: 50%;
+    outline: none;
+    padding-left: 30px;
+}
+.signin
+{
+    border-radius: 97px;
+    background-color: #e03514;
+    border: 0px;
+    color: white;
+    width: 105.55px;
+    height: 44px;
+}
+.signin:hover
+{
+    background-color: #d43414;
+    cursor: pointer;
+}
+.logo :hover
+{
+    cursor: pointer;
+}
+.SignIn
+{
+    margin-left: 84px;
+    margin-right: 43px;
+}
+.container
+{
+    width: 100%;
+    background-image: url("BannerImg/BackGround.jpg");
+    background-size: cover;
+    height: 900px;
+    background-repeat: no-repeat;
+}
+.BannerBody
+{
+    height: 100%;
+    width: 100%;
+}
+.Body
+{
+    
+  
+}
