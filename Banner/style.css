@@ -205,7 +205,8 @@ body
     position: relative;
     background-image: url("BannerImg/SanPham.png");
     background-size: contain;
-    width: 658px; 
+    background-repeat: no-repeat;
+    width: 758px; 
     height: 595px;
     border-radius: 241px;
 }
